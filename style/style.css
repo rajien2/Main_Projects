@@ -1,0 +1,4 @@
+#bg {
+    background: url('bg.jpg') no-repeat center center fixed;
+    background-size:100% auto;
+}

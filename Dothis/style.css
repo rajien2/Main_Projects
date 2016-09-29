@@ -1,0 +1,20 @@
+#why{
+    text-align: center;
+    }
+header{
+    text-align: center;
+    background-color: blue;
+    font-size: 40pt;
+    color: white;
+}
+footer{
+    background-color: blue;
+    height: 100pt;
+}
+.panda{
+    height: 210pt;
+    animation: step-end;
+}
+.bar{
+    background-color: lightblue;
+}
